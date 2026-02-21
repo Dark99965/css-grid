@@ -1,0 +1,5 @@
+.grid {
+    /* base for grid layout */
+    display: grid;
+    gap: 20px;
+}
