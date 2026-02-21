@@ -1,3 +1,8 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+}
 .grid {
     /* base for grid layout */
     display: grid;
